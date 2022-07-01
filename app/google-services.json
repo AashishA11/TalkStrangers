@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "511588945052",
+    "project_id": "talkstrangers-9650c",
+    "storage_bucket": "talkstrangers-9650c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511588945052:android:9c7a9a8f9479eec043b159",
+        "android_client_info": {
+          "package_name": "com.example.talkstrangers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511588945052-2fknus7090t2rarlr47vc9sjcufaqdbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talkstrangers",
+            "certificate_hash": "b85defb3727203e3ce012484d4aa790d86ac75a5"
+          }
+        },
+        {
+          "client_id": "511588945052-2tnpeoouftvtjkrqki2ock5gj00mq1go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiwX9CctQyH5Cta7x_69gvPbwH3f75NRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511588945052-2tnpeoouftvtjkrqki2ock5gj00mq1go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
