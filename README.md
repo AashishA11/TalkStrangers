@@ -47,4 +47,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push the branch: `git push origin my-new-feature`
 5. Submit a pull request.
 
+![image](https://github.com/AashishA11/TalkStrangers/assets/76701146/f3d3cdc4-1955-4c8e-83d2-e92fd455a003)
+
+
 
